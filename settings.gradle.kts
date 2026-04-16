@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Mental_Health"
 include(":app")
- 
+include(":ui")
+include(":core")
